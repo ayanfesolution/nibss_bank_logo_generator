@@ -1,0 +1,3442 @@
+[
+  {
+    "institutionCode": "090832",
+    "institutionName": "5TT MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "110072",
+    "institutionName": "78 FINANCE COMPANY LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "120001",
+    "institutionName": "9 payment service Bank",
+    "cbnCode": "779"
+  },
+  {
+    "institutionCode": "090629",
+    "institutionName": "9JAPAY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050005",
+    "institutionName": "AAA Finance and Investment Company Limited",
+    "cbnCode": "465"
+  },
+  {
+    "institutionCode": "090270",
+    "institutionName": "AB MICROFINANCE BANK",
+    "cbnCode": "675"
+  },
+  {
+    "institutionCode": "070010",
+    "institutionName": "ABBEY MORTGAGE BANK",
+    "cbnCode": "404"
+  },
+  {
+    "institutionCode": "090260",
+    "institutionName": "ABOVE ONLY MICROFINANCE BANK",
+    "cbnCode": "670"
+  },
+  {
+    "institutionCode": "090640",
+    "institutionName": "ABSU MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090197",
+    "institutionName": "ABU MICROFINANCE BANK",
+    "cbnCode": "661"
+  },
+  {
+    "institutionCode": "090424",
+    "institutionName": "Abucoop  Microfinance Bank",
+    "cbnCode": "820"
+  },
+  {
+    "institutionCode": "090545",
+    "institutionName": "ABULESORO MICROFINANCE BANK",
+    "cbnCode": "995"
+  },
+  {
+    "institutionCode": "000014",
+    "institutionName": "ACCESS BANK",
+    "cbnCode": "044"
+  },
+  {
+    "institutionCode": "000005",
+    "institutionName": "ACCESS BANK PLC (DIAMOND)",
+    "cbnCode": "063"
+  },
+  {
+    "institutionCode": "100013",
+    "institutionName": "ACCESSMONEY",
+    "cbnCode": "323"
+  },
+  {
+    "institutionCode": "090134",
+    "institutionName": "ACCION MFB",
+    "cbnCode": "588"
+  },
+  {
+    "institutionCode": "090483",
+    "institutionName": "ADA MICROFINANCE BANK",
+    "cbnCode": "901"
+  },
+  {
+    "institutionCode": "070030",
+    "institutionName": "Adamawa Mortgage Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090160",
+    "institutionName": "ADDOSSER MFBB",
+    "cbnCode": "625"
+  },
+  {
+    "institutionCode": "090268",
+    "institutionName": "ADEYEMI COLLEGE STAFF MICROFINANCE BANK",
+    "cbnCode": "674"
+  },
+  {
+    "institutionCode": "090759",
+    "institutionName": "ADVANCLY MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090155",
+    "institutionName": "ADVANS LA FAYETTE MFB",
+    "cbnCode": "623"
+  },
+  {
+    "institutionCode": "090614",
+    "institutionName": "Aella Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090292",
+    "institutionName": "Afekhafe MFB",
+    "cbnCode": "704"
+  },
+  {
+    "institutionCode": "090518",
+    "institutionName": "AFEMAI MICROFINANCE BANK",
+    "cbnCode": "945"
+  },
+  {
+    "institutionCode": "100028",
+    "institutionName": "AG MORTGAGE BANK PLC",
+    "cbnCode": "418"
+  },
+  {
+    "institutionCode": "090371",
+    "institutionName": "AGOSASA MICROFINANCE BANK",
+    "cbnCode": "753"
+  },
+  {
+    "institutionCode": "090698",
+    "institutionName": "AKALABO MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090608",
+    "institutionName": "AKPO MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090756",
+    "institutionName": "AKSU MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090531",
+    "institutionName": "AKU MICROFINANCE BANK",
+    "cbnCode": "971"
+  },
+  {
+    "institutionCode": "090561",
+    "institutionName": "AKUCHUKWU MICROFINANCE BANK",
+    "cbnCode": "462"
+  },
+  {
+    "institutionCode": "070025",
+    "institutionName": "AKWA SAVINGS AND LOANS LIMITED",
+    "cbnCode": "972"
+  },
+  {
+    "institutionCode": "090133",
+    "institutionName": "AL-BARKAH MFB",
+    "cbnCode": "587"
+  },
+  {
+    "institutionCode": "090259",
+    "institutionName": "ALEKUN MICROFINANCE BANK",
+    "cbnCode": "665"
+  },
+  {
+    "institutionCode": "090297",
+    "institutionName": "ALERT MFB",
+    "cbnCode": "706"
+  },
+  {
+    "institutionCode": "090277",
+    "institutionName": "ALHAYAT MFB",
+    "cbnCode": "684"
+  },
+  {
+    "institutionCode": "090131",
+    "institutionName": "ALLWORKERS MFB",
+    "cbnCode": "584"
+  },
+  {
+    "institutionCode": "000041",
+    "institutionName": "Alpha Morgan Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090169",
+    "institutionName": "ALPHAKAPITAL MFB",
+    "cbnCode": "642"
+  },
+  {
+    "institutionCode": "000037",
+    "institutionName": "ALTERNATIVE BANK LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090394",
+    "institutionName": "Amac Microfinance Bank",
+    "cbnCode": "790"
+  },
+  {
+    "institutionCode": "090180",
+    "institutionName": "AMJU MFB",
+    "cbnCode": "503"
+  },
+  {
+    "institutionCode": "090116",
+    "institutionName": "AMML MFB",
+    "cbnCode": "570"
+  },
+  {
+    "institutionCode": "090610",
+    "institutionName": "AMOYE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090770",
+    "institutionName": "AMPLE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090476",
+    "institutionName": "ANCHORAGE MICROFINANCE BANK",
+    "cbnCode": "891"
+  },
+  {
+    "institutionCode": "090751",
+    "institutionName": "ANIOMA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090143",
+    "institutionName": "APEKS MICROFINANCE BANK",
+    "cbnCode": "595"
+  },
+  {
+    "institutionCode": "090737",
+    "institutionName": "APEX TRUST MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090376",
+    "institutionName": "Apple Microfinance Bank",
+    "cbnCode": "762"
+  },
+  {
+    "institutionCode": "090307",
+    "institutionName": "ARAMOKO MICROFINANCE BANK",
+    "cbnCode": "977"
+  },
+  {
+    "institutionCode": "090282",
+    "institutionName": "ARISE MFB",
+    "cbnCode": "692"
+  },
+  {
+    "institutionCode": "090816",
+    "institutionName": "ARM Microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050040",
+    "institutionName": "ASCENSIA FINANCE COMPANY LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090001",
+    "institutionName": "ASOSAVINGS",
+    "cbnCode": "401"
+  },
+  {
+    "institutionCode": "090544",
+    "institutionName": "ASPIRE MICROFINANCE BANK",
+    "cbnCode": "993"
+  },
+  {
+    "institutionCode": "090287",
+    "institutionName": "Assets Matrix MFB",
+    "cbnCode": "711"
+  },
+  {
+    "institutionCode": "090473",
+    "institutionName": "ASSETS MICROFINANCE BANK",
+    "cbnCode": "885"
+  },
+  {
+    "institutionCode": "090172",
+    "institutionName": "ASTRAPOLARIS MFB",
+    "cbnCode": "647"
+  },
+  {
+    "institutionCode": "090451",
+    "institutionName": "ATBU  Microfinance Bank",
+    "cbnCode": "850"
+  },
+  {
+    "institutionCode": "090264",
+    "institutionName": "AUCHI MICROFINANCE BANK",
+    "cbnCode": "553"
+  },
+  {
+    "institutionCode": "090817",
+    "institutionName": "Auchi Poly MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090600",
+    "institutionName": "AVE MARIA MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090478",
+    "institutionName": "AVUENEGBE MICROFINANCE BANK",
+    "cbnCode": "895"
+  },
+  {
+    "institutionCode": "090633",
+    "institutionName": "AWACASH MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090662",
+    "institutionName": "AWESOME MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090540",
+    "institutionName": "AZTEC MICROFINANCE BANK",
+    "cbnCode": "987"
+  },
+  {
+    "institutionCode": "090729",
+    "institutionName": "BABCOCK MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090625",
+    "institutionName": "BABURA MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090188",
+    "institutionName": "BAINES CREDIT MFB",
+    "cbnCode": "656"
+  },
+  {
+    "institutionCode": "090181",
+    "institutionName": "Balogun Fulani  Microfinance Bank",
+    "cbnCode": "863"
+  },
+  {
+    "institutionCode": "090326",
+    "institutionName": "BALOGUN GAMBARI MFB",
+    "cbnCode": "725"
+  },
+  {
+    "institutionCode": "090651",
+    "institutionName": "BAM MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090581",
+    "institutionName": "BANC CORP MICROFINANCE BANK",
+    "cbnCode": "482"
+  },
+  {
+    "institutionCode": "090425",
+    "institutionName": "Banex Microfinance Bank",
+    "cbnCode": "819"
+  },
+  {
+    "institutionCode": "090367",
+    "institutionName": "Bank of Agriculture",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090789",
+    "institutionName": "Bankeasy MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090275",
+    "institutionName": "BANKIT MFB",
+    "cbnCode": "685"
+  },
+  {
+    "institutionCode": "090529",
+    "institutionName": "BANKLY MICROFINANCE BANK",
+    "cbnCode": "963"
+  },
+  {
+    "institutionCode": "090136",
+    "institutionName": "BAOBAB MFB",
+    "cbnCode": "564"
+  },
+  {
+    "institutionCode": "090783",
+    "institutionName": "Barnawa MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090316",
+    "institutionName": "BAYERO MICROFINANCE BANK",
+    "cbnCode": "729"
+  },
+  {
+    "institutionCode": "090774",
+    "institutionName": "BBWAY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090127",
+    "institutionName": "BC KASH MFB",
+    "cbnCode": "582"
+  },
+  {
+    "institutionCode": "090672",
+    "institutionName": "BELLBANK Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090413",
+    "institutionName": "Benysta Microfinance Bank",
+    "cbnCode": "813"
+  },
+  {
+    "institutionCode": "090615",
+    "institutionName": "BESTSTAR MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100052",
+    "institutionName": "BETA-ACCESS YELLO",
+    "cbnCode": "710"
+  },
+  {
+    "institutionCode": "110074",
+    "institutionName": "Betastack Technologies",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090683",
+    "institutionName": "BETHEL MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090336",
+    "institutionName": "BIPC MICROFINANCE BANK",
+    "cbnCode": "736"
+  },
+  {
+    "institutionCode": "090743",
+    "institutionName": "BLOOMS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090538",
+    "institutionName": "BLUEPRINT INVESTMENTS MICROFINANCE BANK",
+    "cbnCode": "981"
+  },
+  {
+    "institutionCode": "090431",
+    "institutionName": "Bluewhales  Microfinance Bank",
+    "cbnCode": "824"
+  },
+  {
+    "institutionCode": "090117",
+    "institutionName": "BOCTRUST MICROFINANCE BANK",
+    "cbnCode": "571"
+  },
+  {
+    "institutionCode": "090444",
+    "institutionName": "BOI Microfinance Bank",
+    "cbnCode": "846"
+  },
+  {
+    "institutionCode": "090494",
+    "institutionName": "BOJI BOJI MICROFINANCE BANK",
+    "cbnCode": "912"
+  },
+  {
+    "institutionCode": "090703",
+    "institutionName": "BOKKOS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090753",
+    "institutionName": "BOLD MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090319",
+    "institutionName": "Bonghe Microfinance Bank",
+    "cbnCode": "838"
+  },
+  {
+    "institutionCode": "090819",
+    "institutionName": "Boost MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090395",
+    "institutionName": "Borgu MFB",
+    "cbnCode": "783"
+  },
+  {
+    "institutionCode": "090454",
+    "institutionName": "Borstal Microfinance Bank",
+    "cbnCode": "856"
+  },
+  {
+    "institutionCode": "090176",
+    "institutionName": "BOSAK MFB",
+    "cbnCode": "650"
+  },
+  {
+    "institutionCode": "090148",
+    "institutionName": "BOWEN MFB",
+    "cbnCode": "617"
+  },
+  {
+    "institutionCode": "090804",
+    "institutionName": "Bowman MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050006",
+    "institutionName": "BRANCH INTERNATIONAL FINANCE COMPANY LIMITED",
+    "cbnCode": "468"
+  },
+  {
+    "institutionCode": "070015",
+    "institutionName": "BRENT MORTGAGE BANK",
+    "cbnCode": "416"
+  },
+  {
+    "institutionCode": "090293",
+    "institutionName": "BRETHREN MICROFINANCE BANK",
+    "cbnCode": "712"
+  },
+  {
+    "institutionCode": "090393",
+    "institutionName": "Bridgeway Microfinance Bank",
+    "cbnCode": "789"
+  },
+  {
+    "institutionCode": "090308",
+    "institutionName": "BRIGHTWAY MFB",
+    "cbnCode": "715"
+  },
+  {
+    "institutionCode": "090636",
+    "institutionName": "BRIYTH-COVENANT MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090512",
+    "institutionName": "BUBAYERO MICORFINANCE BANK",
+    "cbnCode": "936"
+  },
+  {
+    "institutionCode": "090613",
+    "institutionName": "Build MicroFinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090661",
+    "institutionName": "BUNDI MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090655",
+    "institutionName": "BUNKURE  MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090406",
+    "institutionName": "Business Support Microfinance Bank",
+    "cbnCode": "797"
+  },
+  {
+    "institutionCode": "090682",
+    "institutionName": "BUYPOWER MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090415",
+    "institutionName": "Calabar Microfinance Bank",
+    "cbnCode": "803"
+  },
+  {
+    "institutionCode": "090647",
+    "institutionName": "CANAAN MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090509",
+    "institutionName": "CapitalMetriq Swift Microfinance Bank",
+    "cbnCode": "931"
+  },
+  {
+    "institutionCode": "110023",
+    "institutionName": "Capricorn Digital",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090445",
+    "institutionName": "Capstone MF Bank",
+    "cbnCode": "843"
+  },
+  {
+    "institutionCode": "100026",
+    "institutionName": "CARBON MFB",
+    "cbnCode": "565"
+  },
+  {
+    "institutionCode": "090840",
+    "institutionName": "CASA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090634",
+    "institutionName": "CASHBRIDGE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090360",
+    "institutionName": "CASHCONNECT   MICROFINANCE BANK",
+    "cbnCode": "748"
+  },
+  {
+    "institutionCode": "090649",
+    "institutionName": "CASHRITE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090498",
+    "institutionName": "CATLAND MICROFINANCE BANK",
+    "cbnCode": "917"
+  },
+  {
+    "institutionCode": "090154",
+    "institutionName": "CEMCS MFB",
+    "cbnCode": "632"
+  },
+  {
+    "institutionCode": "000028",
+    "institutionName": "Central Bank of Nigeria",
+    "cbnCode": "786"
+  },
+  {
+    "institutionCode": "050032",
+    "institutionName": "CENTRUM FINANCE",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090397",
+    "institutionName": "Chanelle Bank",
+    "cbnCode": "810"
+  },
+  {
+    "institutionCode": "090815",
+    "institutionName": "Charis MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090523",
+    "institutionName": "CHASE MICROFINANCE BANK",
+    "cbnCode": "957"
+  },
+  {
+    "institutionCode": "090440",
+    "institutionName": "Cherish Microfinance Bank",
+    "cbnCode": "844"
+  },
+  {
+    "institutionCode": "090416",
+    "institutionName": "Chibueze Microfinance Bank",
+    "cbnCode": "806"
+  },
+  {
+    "institutionCode": "090141",
+    "institutionName": "CHIKUM MICROFINANCE BANK",
+    "cbnCode": "612"
+  },
+  {
+    "institutionCode": "000009",
+    "institutionName": "CITI BANK",
+    "cbnCode": "023"
+  },
+  {
+    "institutionCode": "090343",
+    "institutionName": "Citizen Trust  Microfinance Bank",
+    "cbnCode": "511"
+  },
+  {
+    "institutionCode": "070027",
+    "institutionName": "CITYCODE MORTGAGE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090482",
+    "institutionName": "Clearpay Microfinance Bank",
+    "cbnCode": "897"
+  },
+  {
+    "institutionCode": "090511",
+    "institutionName": "CLOVER LEAF MICROFINANCE BANK",
+    "cbnCode": "934"
+  },
+  {
+    "institutionCode": "090254",
+    "institutionName": "COALCAMP MICROFINANCE BANK",
+    "cbnCode": "873"
+  },
+  {
+    "institutionCode": "090374",
+    "institutionName": "COASTLINE MICROFINANCE BANK",
+    "cbnCode": "756"
+  },
+  {
+    "institutionCode": "090530",
+    "institutionName": "CONFIDENCE MICROFINANCE BANK",
+    "cbnCode": "991"
+  },
+  {
+    "institutionCode": "090130",
+    "institutionName": "CONSUMER  MFB",
+    "cbnCode": "585"
+  },
+  {
+    "institutionCode": "090842",
+    "institutionName": "COOL MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "070021",
+    "institutionName": "COOP Mortgage Bank",
+    "cbnCode": "807"
+  },
+  {
+    "institutionCode": "090717",
+    "institutionName": "COOPFUND MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090365",
+    "institutionName": "Corestep MICROFINANCE BANK",
+    "cbnCode": "766"
+  },
+  {
+    "institutionCode": "060001",
+    "institutionName": "Coronation Merchant Bank",
+    "cbnCode": "559"
+  },
+  {
+    "institutionCode": "050001",
+    "institutionName": "COUNTY FINANCE LIMITED",
+    "cbnCode": "973"
+  },
+  {
+    "institutionCode": "070006",
+    "institutionName": "COVENANT MFB",
+    "cbnCode": "551"
+  },
+  {
+    "institutionCode": "090159",
+    "institutionName": "CREDIT AFRIQUE MFB",
+    "cbnCode": "631"
+  },
+  {
+    "institutionCode": "110049",
+    "institutionName": "CREDIT DIRECT LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090611",
+    "institutionName": "Creditville Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090526",
+    "institutionName": "CRESCENT MICROFINANCE BANK",
+    "cbnCode": "967"
+  },
+  {
+    "institutionCode": "090429",
+    "institutionName": "CROSS RIVER MICROFINANCE BANK",
+    "cbnCode": "869"
+  },
+  {
+    "institutionCode": "090414",
+    "institutionName": "Crutech  Microfinance Bank",
+    "cbnCode": "805"
+  },
+  {
+    "institutionCode": "050029",
+    "institutionName": "CRYSTAL FINANCE COMPANY LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050017",
+    "institutionName": "CS ADVANCE FINANCE COMPANY LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090686",
+    "institutionName": "CSD MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090705",
+    "institutionName": "DAILY TRUST MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090596",
+    "institutionName": "DAL MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090845",
+    "institutionName": "DASH MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090673",
+    "institutionName": "DAVENPORT MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090391",
+    "institutionName": "Davodani  Microfinance Bank",
+    "cbnCode": "774"
+  },
+  {
+    "institutionCode": "090167",
+    "institutionName": "DAYLIGHT MICROFINANCE BANK",
+    "cbnCode": "638"
+  },
+  {
+    "institutionCode": "070023",
+    "institutionName": "DELTA TRUST MORTGAGE BANK",
+    "cbnCode": "922"
+  },
+  {
+    "institutionCode": "090723",
+    "institutionName": "DESTINY MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090745",
+    "institutionName": "DIGITVANT MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050013",
+    "institutionName": "DIGNITY FINANCE AND INVESTMENT LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090828",
+    "institutionName": "Dillon MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090643",
+    "institutionName": "DIOBU MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090404",
+    "institutionName": "DOJE Microfinance Bank Limited",
+    "cbnCode": "794"
+  },
+  {
+    "institutionCode": "090470",
+    "institutionName": "DOT MFB",
+    "cbnCode": "892"
+  },
+  {
+    "institutionCode": "090821",
+    "institutionName": "DSC Microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090847",
+    "institutionName": "DUXBANK MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090721",
+    "institutionName": "DW MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090294",
+    "institutionName": "EAGLE FLIGHT MFB",
+    "cbnCode": "734"
+  },
+  {
+    "institutionCode": "090674",
+    "institutionName": "Earnwell MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090707",
+    "institutionName": "Eastman MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090156",
+    "institutionName": "E-BARCS MFB",
+    "cbnCode": "626"
+  },
+  {
+    "institutionCode": "090427",
+    "institutionName": "EBSU MICROFINANCE Bank",
+    "cbnCode": "830"
+  },
+  {
+    "institutionCode": "000010",
+    "institutionName": "ECOBANK",
+    "cbnCode": "050"
+  },
+  {
+    "institutionCode": "100008",
+    "institutionName": "ECOBANK XPRESS ACCOUNT",
+    "cbnCode": "307"
+  },
+  {
+    "institutionCode": "090310",
+    "institutionName": "EDFIN MFB",
+    "cbnCode": "720"
+  },
+  {
+    "institutionCode": "050016",
+    "institutionName": "E-FINANCE",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090556",
+    "institutionName": "EGWAFIN MICROFINANCE BANK",
+    "cbnCode": "449"
+  },
+  {
+    "institutionCode": "090694",
+    "institutionName": "EJINDU MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090552",
+    "institutionName": "EKIMOGUN MICROFINANCE BANK",
+    "cbnCode": "441"
+  },
+  {
+    "institutionCode": "090097",
+    "institutionName": "EKONDO MFB",
+    "cbnCode": "847"
+  },
+  {
+    "institutionCode": "090389",
+    "institutionName": "EK-Reliable Microfinance Bank",
+    "cbnCode": "772"
+  },
+  {
+    "institutionCode": "090712",
+    "institutionName": "EMAAR MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090273",
+    "institutionName": "EMERALDS MFB",
+    "cbnCode": "680"
+  },
+  {
+    "institutionCode": "090114",
+    "institutionName": "EMPIRETRUST MICROFINANCE BANK",
+    "cbnCode": "568"
+  },
+  {
+    "institutionCode": "000033",
+    "institutionName": "eNaira",
+    "cbnCode": "996"
+  },
+  {
+    "institutionCode": "050012",
+    "institutionName": "ENCO FINANCE COMPANY LTD",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090809",
+    "institutionName": "ENDWELL MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090656",
+    "institutionName": "ENTITY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090189",
+    "institutionName": "ESAN MFB",
+    "cbnCode": "510"
+  },
+  {
+    "institutionCode": "090166",
+    "institutionName": "ESO-E MICROFINANCE BANK",
+    "cbnCode": "640"
+  },
+  {
+    "institutionCode": "100006",
+    "institutionName": "ETRANZACT",
+    "cbnCode": "306"
+  },
+  {
+    "institutionCode": "090304",
+    "institutionName": "EVANGEL MFB",
+    "cbnCode": "713"
+  },
+  {
+    "institutionCode": "090332",
+    "institutionName": "EVERGREEN MICROFINANCE BANK",
+    "cbnCode": "735"
+  },
+  {
+    "institutionCode": "050034",
+    "institutionName": "Evib Finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090572",
+    "institutionName": "EWT MICROFINANCE BANK",
+    "cbnCode": "477"
+  },
+  {
+    "institutionCode": "090678",
+    "institutionName": "EXCEL MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090541",
+    "institutionName": "EXCELLENT MICROFINANCE BANK",
+    "cbnCode": "988"
+  },
+  {
+    "institutionCode": "090328",
+    "institutionName": "EYOWO MICROFINANCE BANK",
+    "cbnCode": "747"
+  },
+  {
+    "institutionCode": "090551",
+    "institutionName": "FAIRMONEY MICROFINANCE BANK",
+    "cbnCode": "440"
+  },
+  {
+    "institutionCode": "090330",
+    "institutionName": "FAME Microfinance Bank",
+    "cbnCode": "836"
+  },
+  {
+    "institutionCode": "050009",
+    "institutionName": "FAST CREDIT LIMITED",
+    "cbnCode": "466"
+  },
+  {
+    "institutionCode": "090179",
+    "institutionName": "FAST Microfinance Bank",
+    "cbnCode": "653"
+  },
+  {
+    "institutionCode": "060002",
+    "institutionName": "FBNQUEST MERCHANT BANK",
+    "cbnCode": "560"
+  },
+  {
+    "institutionCode": "000003",
+    "institutionName": "FCMB",
+    "cbnCode": "214"
+  },
+  {
+    "institutionCode": "100031",
+    "institutionName": "FCMB EASY ACCOUNT",
+    "cbnCode": "624"
+  },
+  {
+    "institutionCode": "090409",
+    "institutionName": "FCMB MFB",
+    "cbnCode": "800"
+  },
+  {
+    "institutionCode": "090290",
+    "institutionName": "FCT MFB",
+    "cbnCode": "701"
+  },
+  {
+    "institutionCode": "090398",
+    "institutionName": "Federal Polytechnic Nekede Microfinance Bank",
+    "cbnCode": "788"
+  },
+  {
+    "institutionCode": "090298",
+    "institutionName": "FEDERALPOLY NASARAWAMFB",
+    "cbnCode": "714"
+  },
+  {
+    "institutionCode": "100001",
+    "institutionName": "FETS",
+    "cbnCode": "314"
+  },
+  {
+    "institutionCode": "050002",
+    "institutionName": "FEWCHORE FINANCE COMPANY LIMITED",
+    "cbnCode": "969"
+  },
+  {
+    "institutionCode": "090153",
+    "institutionName": "FFS MICROFINANCE BANK",
+    "cbnCode": "620"
+  },
+  {
+    "institutionCode": "070026",
+    "institutionName": "FHA MORTGAGE BANK",
+    "cbnCode": "412"
+  },
+  {
+    "institutionCode": "000007",
+    "institutionName": "FIDELITY BANK",
+    "cbnCode": "070"
+  },
+  {
+    "institutionCode": "100019",
+    "institutionName": "FIDELITY MOBILE",
+    "cbnCode": "318"
+  },
+  {
+    "institutionCode": "090126",
+    "institutionName": "FIDFUND MFB",
+    "cbnCode": "581"
+  },
+  {
+    "institutionCode": "090507",
+    "institutionName": "FIMS MICROFINANCE BANK",
+    "cbnCode": "926"
+  },
+  {
+    "institutionCode": "090111",
+    "institutionName": "FINATRUST MICROFINANCE BANK",
+    "cbnCode": "608"
+  },
+  {
+    "institutionCode": "090400",
+    "institutionName": "Finca Microfinance Bank",
+    "cbnCode": "785"
+  },
+  {
+    "institutionCode": "090281",
+    "institutionName": "FINEX MFB",
+    "cbnCode": "693"
+  },
+  {
+    "institutionCode": "090366",
+    "institutionName": "Firmus MICROFINANCE BANK",
+    "cbnCode": "751"
+  },
+  {
+    "institutionCode": "090135",
+    "institutionName": "First Ally MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000016",
+    "institutionName": "FIRST BANK OF NIGERIA",
+    "cbnCode": "011"
+  },
+  {
+    "institutionCode": "070014",
+    "institutionName": "FIRST GENERATION MORTGAGE BANK",
+    "cbnCode": "604"
+  },
+  {
+    "institutionCode": "090479",
+    "institutionName": "First Heritage MFB",
+    "cbnCode": "903"
+  },
+  {
+    "institutionCode": "090479",
+    "institutionName": "FIRST HERITAGE MICROFINANCE BANK",
+    "cbnCode": "903"
+  },
+  {
+    "institutionCode": "050022",
+    "institutionName": "First Marina Trust Finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090163",
+    "institutionName": "First Multiple MFB",
+    "cbnCode": "633"
+  },
+  {
+    "institutionCode": "090285",
+    "institutionName": "FIRST OPTION MFB",
+    "cbnCode": "696"
+  },
+  {
+    "institutionCode": "090164",
+    "institutionName": "FIRST ROYAL MICROFINANCE BANK",
+    "cbnCode": "634"
+  },
+  {
+    "institutionCode": "100014",
+    "institutionName": "FIRSTMONIE WALLET",
+    "cbnCode": "309"
+  },
+  {
+    "institutionCode": "090107",
+    "institutionName": "FIRSTTRUST MORTGAGE BANK",
+    "cbnCode": "413"
+  },
+  {
+    "institutionCode": "090835",
+    "institutionName": "Flexi MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090709",
+    "institutionName": "FOCUS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090521",
+    "institutionName": "FORESIGHT MICROFINANCE BANK",
+    "cbnCode": "953"
+  },
+  {
+    "institutionCode": "100016",
+    "institutionName": "FORTISMOBILE",
+    "cbnCode": "308"
+  },
+  {
+    "institutionCode": "090486",
+    "institutionName": "FORTRESS MICROFINANCE BANK",
+    "cbnCode": "904"
+  },
+  {
+    "institutionCode": "400001",
+    "institutionName": "FSDH",
+    "cbnCode": "601"
+  },
+  {
+    "institutionCode": "090318",
+    "institutionName": "FUD MFB",
+    "cbnCode": "730"
+  },
+  {
+    "institutionCode": "090145",
+    "institutionName": "FULL RANGE MFB",
+    "cbnCode": "600"
+  },
+  {
+    "institutionCode": "050010",
+    "institutionName": "FUNDQUEST FINANCIAL SERVICES LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090438",
+    "institutionName": "Futminna Microfinance Bank",
+    "cbnCode": "832"
+  },
+  {
+    "institutionCode": "090158",
+    "institutionName": "FUTO MFB",
+    "cbnCode": "628"
+  },
+  {
+    "institutionCode": "090582",
+    "institutionName": "GABASAWA MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090591",
+    "institutionName": "Gabsyn Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090591",
+    "institutionName": "Gabsyn Microfinance Bank Limited",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050033",
+    "institutionName": "Gadol Finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090691",
+    "institutionName": "GARUN MALLAM MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090168",
+    "institutionName": "GASHUA MICROFINANCE BANK",
+    "cbnCode": "639"
+  },
+  {
+    "institutionCode": "070009",
+    "institutionName": "GATEWAY MORTGAGE BANK",
+    "cbnCode": "607"
+  },
+  {
+    "institutionCode": "090579",
+    "institutionName": "GBEDE MICROFINANCE BANK",
+    "cbnCode": "478"
+  },
+  {
+    "institutionCode": "050026",
+    "institutionName": "GDL FINANCE",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090475",
+    "institutionName": "Giant Stride MFB",
+    "cbnCode": "890"
+  },
+  {
+    "institutionCode": "090621",
+    "institutionName": "GIDAUNIYAR ALHERI MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090411",
+    "institutionName": "GiGinya Microfinance Bank",
+    "cbnCode": "802"
+  },
+  {
+    "institutionCode": "090186",
+    "institutionName": "Girei MFB",
+    "cbnCode": "784"
+  },
+  {
+    "institutionCode": "090441",
+    "institutionName": "Giwa Microfinance Bank",
+    "cbnCode": "837"
+  },
+  {
+    "institutionCode": "090639",
+    "institutionName": "GLOBAL INITIATIVE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000027",
+    "institutionName": "GLOBUS BANK",
+    "cbnCode": "103"
+  },
+  {
+    "institutionCode": "090278",
+    "institutionName": "GLORY MFB",
+    "cbnCode": "686"
+  },
+  {
+    "institutionCode": "090408",
+    "institutionName": "GMB Microfinance Bank",
+    "cbnCode": "799"
+  },
+  {
+    "institutionCode": "090574",
+    "institutionName": "GOLDMAN MFB",
+    "cbnCode": "485"
+  },
+  {
+    "institutionCode": "090586",
+    "institutionName": "GOMBE MICROFINANCE BANK LIMITED",
+    "cbnCode": "484"
+  },
+  {
+    "institutionCode": "100022",
+    "institutionName": "GOMONEY",
+    "cbnCode": "326"
+  },
+  {
+    "institutionCode": "090467",
+    "institutionName": "Good Neighbours MFB",
+    "cbnCode": "880"
+  },
+  {
+    "institutionCode": "090664",
+    "institutionName": "GOOD SHEPHERD MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090687",
+    "institutionName": "GOSIFECHUKWU MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090122",
+    "institutionName": "GOWANS MFB",
+    "cbnCode": "575"
+  },
+  {
+    "institutionCode": "090335",
+    "institutionName": "Grant Microfinance Bank",
+    "cbnCode": "852"
+  },
+  {
+    "institutionCode": "090599",
+    "institutionName": "GREENACRES MICROFINANCE BANK LTD",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090178",
+    "institutionName": "GREENBANK MFB",
+    "cbnCode": "652"
+  },
+  {
+    "institutionCode": "090269",
+    "institutionName": "GREENVILLE MICROFINANCE BANK",
+    "cbnCode": "673"
+  },
+  {
+    "institutionCode": "060004",
+    "institutionName": "Greenwich Merchant Bank",
+    "cbnCode": "562"
+  },
+  {
+    "institutionCode": "050041",
+    "institutionName": "GRIFFIN FINANCE LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090195",
+    "institutionName": "GROOMING MICROFINANCE BANK",
+    "cbnCode": "663"
+  },
+  {
+    "institutionCode": "000013",
+    "institutionName": "GTBANK PLC",
+    "cbnCode": "058"
+  },
+  {
+    "institutionCode": "090385",
+    "institutionName": "GTI  Microfinance Bank",
+    "cbnCode": "775"
+  },
+  {
+    "institutionCode": "090500",
+    "institutionName": "GWONG MICROFINANCE BANK",
+    "cbnCode": "919"
+  },
+  {
+    "institutionCode": "090147",
+    "institutionName": "HACKMAN MICROFINANCE BANK",
+    "cbnCode": "618"
+  },
+  {
+    "institutionCode": "070017",
+    "institutionName": "HAGGAI MORTGAGE BANK",
+    "cbnCode": "641"
+  },
+  {
+    "institutionCode": "090291",
+    "institutionName": "HALA MFB",
+    "cbnCode": "702"
+  },
+  {
+    "institutionCode": "090539",
+    "institutionName": "HALO MICROFINANCE BANK",
+    "cbnCode": "982"
+  },
+  {
+    "institutionCode": "090121",
+    "institutionName": "HASAL MFB",
+    "cbnCode": "558"
+  },
+  {
+    "institutionCode": "090363",
+    "institutionName": "Headway MFB",
+    "cbnCode": "749"
+  },
+  {
+    "institutionCode": "090418",
+    "institutionName": "Highland Microfinance Bank",
+    "cbnCode": "818"
+  },
+  {
+    "institutionCode": "090761",
+    "institutionName": "HILLPOST MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "070024",
+    "institutionName": "HOMEBASE MORTGAGE BANK",
+    "cbnCode": "941"
+  },
+  {
+    "institutionCode": "120002",
+    "institutionName": "HopePSB",
+    "cbnCode": "795"
+  },
+  {
+    "institutionCode": "090598",
+    "institutionName": "IBA Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090115",
+    "institutionName": "IBANK Microfinance Bank",
+    "cbnCode": "567"
+  },
+  {
+    "institutionCode": "090697",
+    "institutionName": "IBBU MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090439",
+    "institutionName": "IBETO  Microfinance Bank",
+    "cbnCode": "851"
+  },
+  {
+    "institutionCode": "090118",
+    "institutionName": "IBILE MICROFINANCE BANK",
+    "cbnCode": "576"
+  },
+  {
+    "institutionCode": "090519",
+    "institutionName": "IBOM FADAMA MICROFINANCE BANK",
+    "cbnCode": "948"
+  },
+  {
+    "institutionCode": "090488",
+    "institutionName": "IBU-AJE MICROFINANCE BANK",
+    "cbnCode": "976"
+  },
+  {
+    "institutionCode": "090520",
+    "institutionName": "IC GLOBAL MICROFINANCE BANK",
+    "cbnCode": "949"
+  },
+  {
+    "institutionCode": "090803",
+    "institutionName": "Igbo-ukwu MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090725",
+    "institutionName": "IHIALA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090730",
+    "institutionName": "IJARE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090324",
+    "institutionName": "IKENNE MFB",
+    "cbnCode": "733"
+  },
+  {
+    "institutionCode": "090799",
+    "institutionName": "Ikere MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090279",
+    "institutionName": "IKIRE MFB",
+    "cbnCode": "688"
+  },
+  {
+    "institutionCode": "090844",
+    "institutionName": "IKORODU DIVISION MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090681",
+    "institutionName": "IKOYI ILE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090536",
+    "institutionName": "IKOYI-OSUN MICROFINANCE BANK",
+    "cbnCode": "978"
+  },
+  {
+    "institutionCode": "090370",
+    "institutionName": "ILASAN MICROFINANCE BANK",
+    "cbnCode": "754"
+  },
+  {
+    "institutionCode": "090710",
+    "institutionName": "ILE-OLUJI MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090037",
+    "institutionName": "ILISAN-MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090350",
+    "institutionName": "Illorin Microfinance Bank",
+    "cbnCode": "829"
+  },
+  {
+    "institutionCode": "090430",
+    "institutionName": "Ilora Microfinance Bank",
+    "cbnCode": "823"
+  },
+  {
+    "institutionCode": "090258",
+    "institutionName": "IMO MICROFINANCE BANK",
+    "cbnCode": "678"
+  },
+  {
+    "institutionCode": "090417",
+    "institutionName": "Imowo Microfinance Bank",
+    "cbnCode": "804"
+  },
+  {
+    "institutionCode": "100024",
+    "institutionName": "IMPERIAL HOMES MORTGAGE BANK",
+    "cbnCode": "415"
+  },
+  {
+    "institutionCode": "090670",
+    "institutionName": "IMSU MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090838",
+    "institutionName": "INEBA GOGO MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090157",
+    "institutionName": "INFINITY MFB",
+    "cbnCode": "627"
+  },
+  {
+    "institutionCode": "90157",
+    "institutionName": "INFINITY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "070016",
+    "institutionName": "INFINITY TRUST  MORTGAGE BANK",
+    "cbnCode": "614"
+  },
+  {
+    "institutionCode": "090434",
+    "institutionName": "Insight Microfinance Bank",
+    "cbnCode": "855"
+  },
+  {
+    "institutionCode": "100027",
+    "institutionName": "INTELLIFIN",
+    "cbnCode": "330"
+  },
+  {
+    "institutionCode": "090386",
+    "institutionName": "Interland MFB",
+    "cbnCode": "773"
+  },
+  {
+    "institutionCode": "090493",
+    "institutionName": "Iperu?MFB",
+    "cbnCode": "913"
+  },
+  {
+    "institutionCode": "090149",
+    "institutionName": "IRL MICROFINANCE BANK",
+    "cbnCode": "613"
+  },
+  {
+    "institutionCode": "090377",
+    "institutionName": "ISALEOYO MICROFINANCE BANK",
+    "cbnCode": "765"
+  },
+  {
+    "institutionCode": "090428",
+    "institutionName": "Ishie  Microfinance Bank",
+    "cbnCode": "822"
+  },
+  {
+    "institutionCode": "090584",
+    "institutionName": "ISLAND MICROFINANCE BANK",
+    "cbnCode": "483"
+  },
+  {
+    "institutionCode": "090701",
+    "institutionName": "ISUA Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090578",
+    "institutionName": "IWADE MICROFINANCE BANK",
+    "cbnCode": "479"
+  },
+  {
+    "institutionCode": "090570",
+    "institutionName": "IYAMOYE MICROFINANCE BANK",
+    "cbnCode": "469"
+  },
+  {
+    "institutionCode": "090421",
+    "institutionName": "Izon Microfinance Bank",
+    "cbnCode": "814"
+  },
+  {
+    "institutionCode": "000006",
+    "institutionName": "JAIZ BANK",
+    "cbnCode": "301"
+  },
+  {
+    "institutionCode": "070029",
+    "institutionName": "JIGAWA SAVINGS AND LOANS LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090003",
+    "institutionName": "JUBILEELIFE",
+    "cbnCode": "402"
+  },
+  {
+    "institutionCode": "090320",
+    "institutionName": "KADPOLY MICROFINANCE BANK",
+    "cbnCode": "727"
+  },
+  {
+    "institutionCode": "090669",
+    "institutionName": "KADUPE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090800",
+    "institutionName": "Kaizen Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090684",
+    "institutionName": "Katagum MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090749",
+    "institutionName": "Katsu Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090667",
+    "institutionName": "KAYI MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090554",
+    "institutionName": "KAYVEE MICROFINANCE BANK",
+    "cbnCode": "444"
+  },
+  {
+    "institutionCode": "090191",
+    "institutionName": "KCMB MFB",
+    "cbnCode": "655"
+  },
+  {
+    "institutionCode": "100036",
+    "institutionName": "KEGOW(CHAMSMOBILE)",
+    "cbnCode": "333"
+  },
+  {
+    "institutionCode": "100036",
+    "institutionName": "KEGOW-CHAMSMOBILE",
+    "cbnCode": "333"
+  },
+  {
+    "institutionCode": "090602",
+    "institutionName": "KENECHUKWU MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000002",
+    "institutionName": "KEYSTONE BANK",
+    "cbnCode": "082"
+  },
+  {
+    "institutionCode": "090606",
+    "institutionName": "KKU Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090480",
+    "institutionName": "KOLOMONI MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090299",
+    "institutionName": "KONTAGORA MFB",
+    "cbnCode": "709"
+  },
+  {
+    "institutionCode": "090617",
+    "institutionName": "KOPO KOPE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090380",
+    "institutionName": "KREDI MONEY MICROFINANCE BANK",
+    "cbnCode": "781"
+  },
+  {
+    "institutionCode": "090267",
+    "institutionName": "KUDA MICROFINANCE BANK",
+    "cbnCode": "672"
+  },
+  {
+    "institutionCode": "090450",
+    "institutionName": "Kwasu MF Bank",
+    "cbnCode": "859"
+  },
+  {
+    "institutionCode": "090422",
+    "institutionName": "Landgold  Microfinance Bank",
+    "cbnCode": "816"
+  },
+  {
+    "institutionCode": "090177",
+    "institutionName": "LAPO MFB",
+    "cbnCode": "651"
+  },
+  {
+    "institutionCode": "090271",
+    "institutionName": "LAVENDER MICROFINANCE BANK",
+    "cbnCode": "676"
+  },
+  {
+    "institutionCode": "090724",
+    "institutionName": "LAWYERS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "070012",
+    "institutionName": "LBIC MORTGAGE BANK",
+    "cbnCode": "573"
+  },
+  {
+    "institutionCode": "090650",
+    "institutionName": "LEADCITY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090372",
+    "institutionName": "Legend Microfinance Bank",
+    "cbnCode": "757"
+  },
+  {
+    "institutionCode": "090420",
+    "institutionName": "Letshego  Microfinance Bank",
+    "cbnCode": "815"
+  },
+  {
+    "institutionCode": "090731",
+    "institutionName": "LEVITE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090557",
+    "institutionName": "LIFEGATE MICROFINANCE BANK",
+    "cbnCode": "450"
+  },
+  {
+    "institutionCode": "090477",
+    "institutionName": "LIGHT MICROFINANCE BANK",
+    "cbnCode": "893"
+  },
+  {
+    "institutionCode": "090807",
+    "institutionName": "LIGHTWAY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090435",
+    "institutionName": "Links  Microfinance Bank",
+    "cbnCode": "831"
+  },
+  {
+    "institutionCode": "090780",
+    "institutionName": "Liquidcrest MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "070007",
+    "institutionName": "Livingtrust Mortgage Bank Plc",
+    "cbnCode": "606"
+  },
+  {
+    "institutionCode": "090537",
+    "institutionName": "Lobrem Microfinance Bank",
+    "cbnCode": "985"
+  },
+  {
+    "institutionCode": "090620",
+    "institutionName": "LOMA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000029",
+    "institutionName": "Lotus Bank",
+    "cbnCode": "303"
+  },
+  {
+    "institutionCode": "090265",
+    "institutionName": "LOVONUS MICROFINANCE BANK",
+    "cbnCode": "668"
+  },
+  {
+    "institutionCode": "050015",
+    "institutionName": "LUKEFIELD FINANCE COMPANY LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100035",
+    "institutionName": "M36",
+    "cbnCode": "801"
+  },
+  {
+    "institutionCode": "090764",
+    "institutionName": "MAAL MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090623",
+    "institutionName": "MAB ALLIANZ MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090630",
+    "institutionName": "MABINAS MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090603",
+    "institutionName": "MACROD MICROFINANCE BANK LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090605",
+    "institutionName": "MADOBI MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090746",
+    "institutionName": "MAESTRO MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090323",
+    "institutionName": "MAINLAND MICROFINANCE BANK",
+    "cbnCode": "724"
+  },
+  {
+    "institutionCode": "090171",
+    "institutionName": "MAINSTREET MFB",
+    "cbnCode": "645"
+  },
+  {
+    "institutionCode": "090174",
+    "institutionName": "MALACHY MFB",
+    "cbnCode": "648"
+  },
+  {
+    "institutionCode": "090383",
+    "institutionName": "MANNY MICROFINANCE BANK",
+    "cbnCode": "770"
+  },
+  {
+    "institutionCode": "090423",
+    "institutionName": "Mautech  Microfinance Bank",
+    "cbnCode": "825"
+  },
+  {
+    "institutionCode": "090321",
+    "institutionName": "MAYFAIR  MFB",
+    "cbnCode": "722"
+  },
+  {
+    "institutionCode": "070019",
+    "institutionName": "MAYFRESH MORTGAGE BANK",
+    "cbnCode": "728"
+  },
+  {
+    "institutionCode": "090612",
+    "institutionName": "MEDEF MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090824",
+    "institutionName": "Mega MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090280",
+    "institutionName": "MEGAPRAISE MICROFINANCE BANK",
+    "cbnCode": "689"
+  },
+  {
+    "institutionCode": "090432",
+    "institutionName": "Memphis Microfinance Bank",
+    "cbnCode": "826"
+  },
+  {
+    "institutionCode": "090589",
+    "institutionName": "MERCURY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090528",
+    "institutionName": "MGBIDI MICROFINANCE BANK",
+    "cbnCode": "980"
+  },
+  {
+    "institutionCode": "090659",
+    "institutionName": "MICHAEL OKPARA UNIAGRIC MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090587",
+    "institutionName": "MICROBIZ MICROFINANCE BANK",
+    "cbnCode": "486"
+  },
+  {
+    "institutionCode": "090113",
+    "institutionName": "MICROVIS MICROFINANCE BANK",
+    "cbnCode": "569"
+  },
+  {
+    "institutionCode": "090192",
+    "institutionName": "Midland MFB",
+    "cbnCode": "657"
+  },
+  {
+    "institutionCode": "090607",
+    "institutionName": "MINJIBIR MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090763",
+    "institutionName": "Mint Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090455",
+    "institutionName": "Mkobo Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090775",
+    "institutionName": "MODEL MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090362",
+    "institutionName": "MOLUSI MICROFINANCE BANK",
+    "cbnCode": "759"
+  },
+  {
+    "institutionCode": "120003",
+    "institutionName": "MOMO PAYMENT SERVICE BANK",
+    "cbnCode": "940"
+  },
+  {
+    "institutionCode": "090462",
+    "institutionName": "Monarch Microfinance Bank",
+    "cbnCode": "871"
+  },
+  {
+    "institutionCode": "090144",
+    "institutionName": "MONEYFIELD MICROFINANCE BANK",
+    "cbnCode": "599"
+  },
+  {
+    "institutionCode": "120005",
+    "institutionName": "Moneymaster PSB",
+    "cbnCode": "946"
+  },
+  {
+    "institutionCode": "090692",
+    "institutionName": "Moneytronics MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090129",
+    "institutionName": "MONEYTRUST MFB",
+    "cbnCode": "591"
+  },
+  {
+    "institutionCode": "090405",
+    "institutionName": "Moniepoint Microfinance Bank",
+    "cbnCode": "796"
+  },
+  {
+    "institutionCode": "090685",
+    "institutionName": "Moremonee Microfinance Bank Limited",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090448",
+    "institutionName": "Moyofade MF Bank",
+    "cbnCode": "841"
+  },
+  {
+    "institutionCode": "090392",
+    "institutionName": "Mozfin Microfinance Bank",
+    "cbnCode": "780"
+  },
+  {
+    "institutionCode": "070028",
+    "institutionName": "MUTUAL ALLIANCE MORTGAGE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090190",
+    "institutionName": "MUTUAL BENEFITS MFB",
+    "cbnCode": "654"
+  },
+  {
+    "institutionCode": "090151",
+    "institutionName": "MUTUAL TRUST MICROFINANCE BANK",
+    "cbnCode": "616"
+  },
+  {
+    "institutionCode": "090740",
+    "institutionName": "NAF MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090152",
+    "institutionName": "NARGATA MFB",
+    "cbnCode": "615"
+  },
+  {
+    "institutionCode": "090349",
+    "institutionName": "NASARAWA MICROFINANCE BANK",
+    "cbnCode": "968"
+  },
+  {
+    "institutionCode": "090263",
+    "institutionName": "NAVY MICROFINANCE BANK",
+    "cbnCode": "677"
+  },
+  {
+    "institutionCode": "090679",
+    "institutionName": "NDDC MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090128",
+    "institutionName": "NDIORAH MFB",
+    "cbnCode": "583"
+  },
+  {
+    "institutionCode": "090329",
+    "institutionName": "NEPTUNE MICROFINANCE BANK",
+    "cbnCode": "760"
+  },
+  {
+    "institutionCode": "090675",
+    "institutionName": "NET MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090378",
+    "institutionName": "NEW GOLDEN PASTURES MICROFINANCE BANK",
+    "cbnCode": "764"
+  },
+  {
+    "institutionCode": "090205",
+    "institutionName": "NEWDAWN MICROFINANCE BANK",
+    "cbnCode": "669"
+  },
+  {
+    "institutionCode": "030001",
+    "institutionName": "NEXIM BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "90818",
+    "institutionName": "Nexton microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090818",
+    "institutionName": "Nexton microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090505",
+    "institutionName": "NIGERIAN PRISONS MICROFINANCE BANK",
+    "cbnCode": "923"
+  },
+  {
+    "institutionCode": "090194",
+    "institutionName": "NIRSAL NATIONAL MICROFINANCE BANK",
+    "cbnCode": "659"
+  },
+  {
+    "institutionCode": "090736",
+    "institutionName": "NOMASE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090645",
+    "institutionName": "NOMBANK MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050030",
+    "institutionName": "Northquest Finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090822",
+    "institutionName": "Noun MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "060003",
+    "institutionName": "NOVA BANK",
+    "cbnCode": "637"
+  },
+  {
+    "institutionCode": "090734",
+    "institutionName": "NOVUS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100032",
+    "institutionName": "NOWNOW DIGITAL SYSTEMS",
+    "cbnCode": "629"
+  },
+  {
+    "institutionCode": "070001",
+    "institutionName": "NPF MICROFINANCE BANK",
+    "cbnCode": "552"
+  },
+  {
+    "institutionCode": "090628",
+    "institutionName": "NSEHE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090491",
+    "institutionName": "NSUK MICROFINANCE BANK",
+    "cbnCode": "911"
+  },
+  {
+    "institutionCode": "090676",
+    "institutionName": "NUGGETS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090516",
+    "institutionName": "NUMO MICROFINANCE BANK",
+    "cbnCode": "939"
+  },
+  {
+    "institutionCode": "090364",
+    "institutionName": "NUTURE MFB",
+    "cbnCode": "752"
+  },
+  {
+    "institutionCode": "090399",
+    "institutionName": "Nwannegadi MFB",
+    "cbnCode": "787"
+  },
+  {
+    "institutionCode": "090437",
+    "institutionName": "Oakland Microfinance Bank",
+    "cbnCode": "833"
+  },
+  {
+    "institutionCode": "090755",
+    "institutionName": "OBELEDU MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090810",
+    "institutionName": "Obollo MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090333",
+    "institutionName": "OCHE MFB",
+    "cbnCode": "739"
+  },
+  {
+    "institutionCode": "090576",
+    "institutionName": "OCTOPUS MICROFINANCE BANK",
+    "cbnCode": "475"
+  },
+  {
+    "institutionCode": "090654",
+    "institutionName": "Odoakpu Microfinance Bank Limited",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090738",
+    "institutionName": "OGBERURU MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090739",
+    "institutionName": "OGIGE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090119",
+    "institutionName": "OHAFIA MFB",
+    "cbnCode": "574"
+  },
+  {
+    "institutionCode": "090626",
+    "institutionName": "OHHA MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090527",
+    "institutionName": "OJOKORO MICROFINANCE BANK",
+    "cbnCode": "965"
+  },
+  {
+    "institutionCode": "090567",
+    "institutionName": "OK MICROFINANCE BANK",
+    "cbnCode": "463"
+  },
+  {
+    "institutionCode": "090646",
+    "institutionName": "OKENGWE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090348",
+    "institutionName": "OKO MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090161",
+    "institutionName": "OKPOGA MFB",
+    "cbnCode": "630"
+  },
+  {
+    "institutionCode": "090752",
+    "institutionName": "OKWO-OHA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090272",
+    "institutionName": "OLABISI ONABANJO UNIVERSITY MICROFINANCE BANK",
+    "cbnCode": "679"
+  },
+  {
+    "institutionCode": "090410",
+    "institutionName": "Old Shoreham MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090696",
+    "institutionName": "OLIVE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090468",
+    "institutionName": "OLOFIN OWENA MICROFINANCE BANK",
+    "cbnCode": "881"
+  },
+  {
+    "institutionCode": "090471",
+    "institutionName": "Oluchukwu MFB",
+    "cbnCode": "883"
+  },
+  {
+    "institutionCode": "090460",
+    "institutionName": "OLUYOLE MICROFINANCE BANK",
+    "cbnCode": "868"
+  },
+  {
+    "institutionCode": "090700",
+    "institutionName": "OMAK MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090295",
+    "institutionName": "OMIYE MFB",
+    "cbnCode": "705"
+  },
+  {
+    "institutionCode": "070007",
+    "institutionName": "OMOLUABI MORTGAGE BANK PLC",
+    "cbnCode": "606"
+  },
+  {
+    "institutionCode": "100004",
+    "institutionName": "OPAY DIGITAL SERVICES LIMITED",
+    "cbnCode": "305"
+  },
+  {
+    "institutionCode": "000036",
+    "institutionName": "Optimus Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090588",
+    "institutionName": "ORISUN MICROFINANCE BANK",
+    "cbnCode": "490"
+  },
+  {
+    "institutionCode": "090750",
+    "institutionName": "OSANTA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090396",
+    "institutionName": "Oscotech MFB",
+    "cbnCode": "782"
+  },
+  {
+    "institutionCode": "090715",
+    "institutionName": "OSOMHE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090456",
+    "institutionName": "Ospoly Microfinance Bank",
+    "cbnCode": "862"
+  },
+  {
+    "institutionCode": "090542",
+    "institutionName": "Otuo Microfinance Bank",
+    "cbnCode": "990"
+  },
+  {
+    "institutionCode": "090767",
+    "institutionName": "OURPASS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090346",
+    "institutionName": "Ours MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090635",
+    "institutionName": "OYAN MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090846",
+    "institutionName": "PACT MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100002",
+    "institutionName": "PAGA",
+    "cbnCode": "327"
+  },
+  {
+    "institutionCode": "070008",
+    "institutionName": "PAGE FINANCIALS",
+    "cbnCode": "827"
+  },
+  {
+    "institutionCode": "090497",
+    "institutionName": "Palmcoast Microfinance Bank",
+    "cbnCode": "930"
+  },
+  {
+    "institutionCode": "100033",
+    "institutionName": "PALMPAY",
+    "cbnCode": "719"
+  },
+  {
+    "institutionCode": "000030",
+    "institutionName": "PARALLEX BANK",
+    "cbnCode": "104"
+  },
+  {
+    "institutionCode": "090390",
+    "institutionName": "Parkway MF Bank",
+    "cbnCode": "860"
+  },
+  {
+    "institutionCode": "100003",
+    "institutionName": "PARKWAY-READYCASH",
+    "cbnCode": "311"
+  },
+  {
+    "institutionCode": "090680",
+    "institutionName": "PATHFINDER MICROFINANCE COMPANY LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090317",
+    "institutionName": "PATRICK GOLD",
+    "cbnCode": "721"
+  },
+  {
+    "institutionCode": "090402",
+    "institutionName": "Peace Microfinance Bank",
+    "cbnCode": "812"
+  },
+  {
+    "institutionCode": "090137",
+    "institutionName": "PECAN TRUST MICROFINANCE BANK",
+    "cbnCode": "598"
+  },
+  {
+    "institutionCode": "090379",
+    "institutionName": "PENIEL MICROFINANCE BANK",
+    "cbnCode": "989"
+  },
+  {
+    "institutionCode": "090196",
+    "institutionName": "PENNYWISE MICROFINANCE BANK",
+    "cbnCode": "662"
+  },
+  {
+    "institutionCode": "090165",
+    "institutionName": "PETRA MICROFINANCE BANK",
+    "cbnCode": "636"
+  },
+  {
+    "institutionCode": "090768",
+    "institutionName": "PETTYSAVE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090289",
+    "institutionName": "PILLAR MFB",
+    "cbnCode": "700"
+  },
+  {
+    "institutionCode": "070013",
+    "institutionName": "PLATINUM MORTGAGE BANK",
+    "cbnCode": "596"
+  },
+  {
+    "institutionCode": "100042",
+    "institutionName": "POCKETAPP",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050021",
+    "institutionName": "Poder finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090754",
+    "institutionName": "POINTONE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000008",
+    "institutionName": "POLARIS BANK",
+    "cbnCode": "076"
+  },
+  {
+    "institutionCode": "090534",
+    "institutionName": "POLYBADAN MICROFINANCE BANK",
+    "cbnCode": "986"
+  },
+  {
+    "institutionCode": "090296",
+    "institutionName": "POLYUWANNA MFB",
+    "cbnCode": "707"
+  },
+  {
+    "institutionCode": "090412",
+    "institutionName": "Preeminent Microfinance Bank",
+    "cbnCode": "808"
+  },
+  {
+    "institutionCode": "000031",
+    "institutionName": "PREMIUMTRUST BANK",
+    "cbnCode": "105"
+  },
+  {
+    "institutionCode": "090274",
+    "institutionName": "PRESTIGE MICROFINANCE BANK",
+    "cbnCode": "681"
+  },
+  {
+    "institutionCode": "090784",
+    "institutionName": "Prodigy MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090503",
+    "institutionName": "PROJECTS MICROFINANCE BANK",
+    "cbnCode": "920"
+  },
+  {
+    "institutionCode": "090495",
+    "institutionName": "PROSPA CAPITAL MICROFINANCE BANK",
+    "cbnCode": "915"
+  },
+  {
+    "institutionCode": "090689",
+    "institutionName": "PROSPECTS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090642",
+    "institutionName": "PROSPERITY MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000023",
+    "institutionName": "PROVIDUS BANK",
+    "cbnCode": "101"
+  },
+  {
+    "institutionCode": "090690",
+    "institutionName": "PRUDENT MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090303",
+    "institutionName": "PURPLEMONEY MFB",
+    "cbnCode": "717"
+  },
+  {
+    "institutionCode": "090657",
+    "institutionName": "PYRAMID MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090569",
+    "institutionName": "QUBE MICROFINANCE BANK",
+    "cbnCode": "472"
+  },
+  {
+    "institutionCode": "090261",
+    "institutionName": "QUICKFUND MICROFINANCE BANK",
+    "cbnCode": "666"
+  },
+  {
+    "institutionCode": "090170",
+    "institutionName": "RAHAMA MFB",
+    "cbnCode": "644"
+  },
+  {
+    "institutionCode": "000024",
+    "institutionName": "RAND MERCHANT BANK",
+    "cbnCode": "502"
+  },
+  {
+    "institutionCode": "090496",
+    "institutionName": "RANDALPHA MICROFINANCE BANK",
+    "cbnCode": "914"
+  },
+  {
+    "institutionCode": "090616",
+    "institutionName": "RAYYAN MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "070011",
+    "institutionName": "REFUGE MORTGAGE BANK",
+    "cbnCode": "589"
+  },
+  {
+    "institutionCode": "090125",
+    "institutionName": "REGENT MFB",
+    "cbnCode": "580"
+  },
+  {
+    "institutionCode": "090173",
+    "institutionName": "RELIANCE MFB",
+    "cbnCode": "646"
+  },
+  {
+    "institutionCode": "090198",
+    "institutionName": "RENMONEY MICROFINANCE BANK",
+    "cbnCode": "660"
+  },
+  {
+    "institutionCode": "090322",
+    "institutionName": "REPHIDIM MICROFINANCE BANK",
+    "cbnCode": "737"
+  },
+  {
+    "institutionCode": "090766",
+    "institutionName": "RETRUST MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090666",
+    "institutionName": "REVELATION MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090449",
+    "institutionName": "REX MICROFINANCE BANK",
+    "cbnCode": "854"
+  },
+  {
+    "institutionCode": "090720",
+    "institutionName": "RIC MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090132",
+    "institutionName": "RICHWAY MFB",
+    "cbnCode": "586"
+  },
+  {
+    "institutionCode": "090433",
+    "institutionName": "RIGO Microfinance Bank",
+    "cbnCode": "828"
+  },
+  {
+    "institutionCode": "090515",
+    "institutionName": "RIMA GROWTH PATHWAY MICROFINANCE BANK",
+    "cbnCode": "938"
+  },
+  {
+    "institutionCode": "090443",
+    "institutionName": "RIMA Microfinance Bank",
+    "cbnCode": "839"
+  },
+  {
+    "institutionCode": "090547",
+    "institutionName": "ROCKSHIELD MICROFINANCE BANK",
+    "cbnCode": "998"
+  },
+  {
+    "institutionCode": "090622",
+    "institutionName": "ROYAL BLUE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090138",
+    "institutionName": "ROYAL EXCHANGE MICROFINANCE BANK",
+    "cbnCode": "597"
+  },
+  {
+    "institutionCode": "090535",
+    "institutionName": "RSU MICROFINANCE BANK",
+    "cbnCode": "974"
+  },
+  {
+    "institutionCode": "090771",
+    "institutionName": "RUN MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090727",
+    "institutionName": "SABI MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090485",
+    "institutionName": "SAFEGATE MFB",
+    "cbnCode": "866"
+  },
+  {
+    "institutionCode": "090006",
+    "institutionName": "SAFETRUST",
+    "cbnCode": "403"
+  },
+  {
+    "institutionCode": "090140",
+    "institutionName": "SAGAMU MICROFINANCE BANK",
+    "cbnCode": "610"
+  },
+  {
+    "institutionCode": "050003",
+    "institutionName": "SAGE GREY FINANCE LIMITED",
+    "cbnCode": "979"
+  },
+  {
+    "institutionCode": "050024",
+    "institutionName": "Sciart Finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090513",
+    "institutionName": "SEAP MICROFINANCE BANK",
+    "cbnCode": "937"
+  },
+  {
+    "institutionCode": "090112",
+    "institutionName": "SEED CAPITAL MICROFINANCE BANK",
+    "cbnCode": "609"
+  },
+  {
+    "institutionCode": "090369",
+    "institutionName": "SEEDVEST MICROFINANCE BANK",
+    "cbnCode": "761"
+  },
+  {
+    "institutionCode": "090502",
+    "institutionName": "SHALOM MICROFINANCE BANK",
+    "cbnCode": "921"
+  },
+  {
+    "institutionCode": "090401",
+    "institutionName": "Shepherd Trust Microfinance Bank",
+    "cbnCode": "793"
+  },
+  {
+    "institutionCode": "000034",
+    "institutionName": "SIGNATURE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050008",
+    "institutionName": "SIMPLE FINANCE LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090339",
+    "institutionName": "Sincere Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "120004",
+    "institutionName": "SMARTCASH PSB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090573",
+    "institutionName": "SNOW MICROFINANCE BANK",
+    "cbnCode": "473"
+  },
+  {
+    "institutionCode": "090506",
+    "institutionName": "Solid Allianze Microfinance Bank",
+    "cbnCode": "925"
+  },
+  {
+    "institutionCode": "090524",
+    "institutionName": "SOLIDROCK MICROFINANCE BANK",
+    "cbnCode": "960"
+  },
+  {
+    "institutionCode": "090769",
+    "institutionName": "Soroman Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090641",
+    "institutionName": "SOURCE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090325",
+    "institutionName": "SPARKLE MICROFINANCE BANK",
+    "cbnCode": "723"
+  },
+  {
+    "institutionCode": "090436",
+    "institutionName": "Spectrum Microfinance Bank",
+    "cbnCode": "853"
+  },
+  {
+    "institutionCode": "050036",
+    "institutionName": "SPRING SKY FINANCE",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090806",
+    "institutionName": "SPRINGFIELD MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100007",
+    "institutionName": "STANBIC IBTC @EASE WALLET",
+    "cbnCode": "304"
+  },
+  {
+    "institutionCode": "000012",
+    "institutionName": "STANBICIBTC BANK",
+    "cbnCode": "221"
+  },
+  {
+    "institutionCode": "090182",
+    "institutionName": "STANDARD MICROFINANCE BANK",
+    "cbnCode": "877"
+  },
+  {
+    "institutionCode": "000021",
+    "institutionName": "STANDARDCHARTERED",
+    "cbnCode": "068"
+  },
+  {
+    "institutionCode": "090162",
+    "institutionName": "STANFORD MFB",
+    "cbnCode": "643"
+  },
+  {
+    "institutionCode": "070022",
+    "institutionName": "STB Mortgage Bank",
+    "cbnCode": "882"
+  },
+  {
+    "institutionCode": "090262",
+    "institutionName": "STELLAS MICROFINANCE BANK",
+    "cbnCode": "667"
+  },
+  {
+    "institutionCode": "000001",
+    "institutionName": "STERLING BANK",
+    "cbnCode": "232"
+  },
+  {
+    "institutionCode": "090340",
+    "institutionName": "Stockcorp  Microfinance Bank",
+    "cbnCode": "840"
+  },
+  {
+    "institutionCode": "090305",
+    "institutionName": "SULSAP MFB",
+    "cbnCode": "716"
+  },
+  {
+    "institutionCode": "080003",
+    "institutionName": "Summit Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090302",
+    "institutionName": "Sunbeam Microfinance Bank",
+    "cbnCode": "817"
+  },
+  {
+    "institutionCode": "090644",
+    "institutionName": "SUNTOP MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000022",
+    "institutionName": "SUNTRUST BANK",
+    "cbnCode": "100"
+  },
+  {
+    "institutionCode": "090446",
+    "institutionName": "Support MF Bank",
+    "cbnCode": "842"
+  },
+  {
+    "institutionCode": "090564",
+    "institutionName": "SUPREME MICROFINANCE BANK",
+    "cbnCode": "457"
+  },
+  {
+    "institutionCode": "090728",
+    "institutionName": "SURE ANCHOR MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090757",
+    "institutionName": "SWIFT TRUST MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100023",
+    "institutionName": "TAGPAY",
+    "cbnCode": "328"
+  },
+  {
+    "institutionCode": "000026",
+    "institutionName": "TAJ BANK",
+    "cbnCode": "302"
+  },
+  {
+    "institutionCode": "080002",
+    "institutionName": "TAJ_PINSPAY",
+    "cbnCode": "905"
+  },
+  {
+    "institutionCode": "090638",
+    "institutionName": "TANGALE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090426",
+    "institutionName": "Tangerine Money MFB",
+    "cbnCode": "821"
+  },
+  {
+    "institutionCode": "090593",
+    "institutionName": "TASUED MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000042",
+    "institutionName": "Tatum Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100010",
+    "institutionName": "TEASYMOBILE",
+    "cbnCode": "319"
+  },
+  {
+    "institutionCode": "050007",
+    "institutionName": "TEKLA FACTORING AND FINANCE LIMITED",
+    "cbnCode": "488"
+  },
+  {
+    "institutionCode": "090788",
+    "institutionName": "TELLERONE FI MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090716",
+    "institutionName": "TENN MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090373",
+    "institutionName": "TF MICROFINANCE BANK",
+    "cbnCode": "758"
+  },
+  {
+    "institutionCode": "050031",
+    "institutionName": "THE BROOK FINANCE LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090711",
+    "institutionName": "THE MILLENNIUM MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090283",
+    "institutionName": "THRIVE MFB",
+    "cbnCode": "703"
+  },
+  {
+    "institutionCode": "000025",
+    "institutionName": "TITAN TRUST BANK",
+    "cbnCode": "102"
+  },
+  {
+    "institutionCode": "100039",
+    "institutionName": "Titan-Paystack",
+    "cbnCode": "984"
+  },
+  {
+    "institutionCode": "090714",
+    "institutionName": "TOFA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090801",
+    "institutionName": "Toprate Microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090708",
+    "institutionName": "TRANSPAY MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090663",
+    "institutionName": "TREASURES MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090146",
+    "institutionName": "TRIDENT MICROFINANCE BANK",
+    "cbnCode": "611"
+  },
+  {
+    "institutionCode": "050014",
+    "institutionName": "TRINITY FINANCIAL",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "050023",
+    "institutionName": "TRIVES FINANCE COMPANY LTD",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090327",
+    "institutionName": "TRUST MFB",
+    "cbnCode": "732"
+  },
+  {
+    "institutionCode": "090123",
+    "institutionName": "TRUSTBANC J6 MICROFINANCE BANK LIMITED",
+    "cbnCode": "577"
+  },
+  {
+    "institutionCode": "090005",
+    "institutionName": "TRUSTBOND",
+    "cbnCode": "523"
+  },
+  {
+    "institutionCode": "090276",
+    "institutionName": "TRUSTFUND MICROFINANCE BANK",
+    "cbnCode": "682"
+  },
+  {
+    "institutionCode": "090315",
+    "institutionName": "U AND C MFB",
+    "cbnCode": "718"
+  },
+  {
+    "institutionCode": "000040",
+    "institutionName": "UBA MONI",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090762",
+    "institutionName": "UBJ MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090706",
+    "institutionName": "UCEE MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "90782",
+    "institutionName": "Uga microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090782",
+    "institutionName": "Uga microfinance bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090517",
+    "institutionName": "UHURU MICROFINANCE BANK",
+    "cbnCode": "944"
+  },
+  {
+    "institutionCode": "090820",
+    "institutionName": "Ukpor MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "90776",
+    "institutionName": "Ultimate Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090781",
+    "institutionName": "Ultraviolet MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090514",
+    "institutionName": "UMUCHINEMERE PROCREDIT MICROFINANCE BANK",
+    "cbnCode": "943"
+  },
+  {
+    "institutionCode": "090652",
+    "institutionName": "UMUCHUKWU MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090510",
+    "institutionName": "UMUNNACHI MFB",
+    "cbnCode": "932"
+  },
+  {
+    "institutionCode": "090808",
+    "institutionName": "Umunri MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090814",
+    "institutionName": "Umuoji MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090331",
+    "institutionName": "UNAAB MFB",
+    "cbnCode": "740"
+  },
+  {
+    "institutionCode": "090778",
+    "institutionName": "Uniabuja MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090266",
+    "institutionName": "UNIBEN MICROFINANCE BANK",
+    "cbnCode": "671"
+  },
+  {
+    "institutionCode": "090193",
+    "institutionName": "UNICAL MFB",
+    "cbnCode": "658"
+  },
+  {
+    "institutionCode": "090637",
+    "institutionName": "UNIFUND MICROFINANCE BANK LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090452",
+    "institutionName": "Unilag  Microfinance Bank",
+    "cbnCode": "858"
+  },
+  {
+    "institutionCode": "090341",
+    "institutionName": "unilorin Microfinance Bank",
+    "cbnCode": "834"
+  },
+  {
+    "institutionCode": "090464",
+    "institutionName": "UNIMAID MICROFINANCE BANK",
+    "cbnCode": "861"
+  },
+  {
+    "institutionCode": "000018",
+    "institutionName": "UNION BANK",
+    "cbnCode": "032"
+  },
+  {
+    "institutionCode": "000004",
+    "institutionName": "UNITED BANK FOR AFRICA",
+    "cbnCode": "033"
+  },
+  {
+    "institutionCode": "000011",
+    "institutionName": "UNITY BANK",
+    "cbnCode": "215"
+  },
+  {
+    "institutionCode": "090338",
+    "institutionName": "UNIUYO MICROFINANCE BANK",
+    "cbnCode": "875"
+  },
+  {
+    "institutionCode": "090251",
+    "institutionName": "UNN MFB",
+    "cbnCode": "664"
+  },
+  {
+    "institutionCode": "090719",
+    "institutionName": "UNUBI MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090619",
+    "institutionName": "URE MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090773",
+    "institutionName": "UTAKO MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090765",
+    "institutionName": "UVUOMA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090453",
+    "institutionName": "Uzondu MF Bank",
+    "cbnCode": "857"
+  },
+  {
+    "institutionCode": "050020",
+    "institutionName": "VALE FINANCE LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090474",
+    "institutionName": "Verdant Microfinance Bank",
+    "cbnCode": "888"
+  },
+  {
+    "institutionCode": "090110",
+    "institutionName": "VFD MFB",
+    "cbnCode": "566"
+  },
+  {
+    "institutionCode": "090813",
+    "institutionName": "Victory MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090150",
+    "institutionName": "VIRTUE MFB",
+    "cbnCode": "621"
+  },
+  {
+    "institutionCode": "090139",
+    "institutionName": "VISA MICROFINANCE BANK",
+    "cbnCode": "593"
+  },
+  {
+    "institutionCode": "090787",
+    "institutionName": "Vista Microfinance Bank",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090829",
+    "institutionName": "WAILA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090805",
+    "institutionName": "Wallet MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090590",
+    "institutionName": "WAYA MICROFINANCE BANK",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000017",
+    "institutionName": "WEMA BANK",
+    "cbnCode": "035"
+  },
+  {
+    "institutionCode": "090699",
+    "institutionName": "WESLEY MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090741",
+    "institutionName": "WESTON-CHARIS MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090120",
+    "institutionName": "WETLAND MFB",
+    "cbnCode": "512"
+  },
+  {
+    "institutionCode": "050035",
+    "institutionName": "Whitecrust Finance",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090419",
+    "institutionName": "WinView Bank",
+    "cbnCode": "811"
+  },
+  {
+    "institutionCode": "090631",
+    "institutionName": "WRA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100041",
+    "institutionName": "Xpress MTS",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "100040",
+    "institutionName": "XPRESS WALLET",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090124",
+    "institutionName": "XSLNCE MICROFINANCE BANK",
+    "cbnCode": "579"
+  },
+  {
+    "institutionCode": "090466",
+    "institutionName": "YCT MICROFINANCE BANK",
+    "cbnCode": "876"
+  },
+  {
+    "institutionCode": "090142",
+    "institutionName": "YES MFB",
+    "cbnCode": "594"
+  },
+  {
+    "institutionCode": "090252",
+    "institutionName": "Yobe MFB",
+    "cbnCode": "778"
+  },
+  {
+    "institutionCode": "050019",
+    "institutionName": "ZEDVANCE FINANCE LIMITED",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "090747",
+    "institutionName": "ZEFA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "000015",
+    "institutionName": "ZENITH BANK PLC",
+    "cbnCode": "057"
+  },
+  {
+    "institutionCode": "100034",
+    "institutionName": "Zenth Easy Wallet",
+    "cbnCode": "792"
+  },
+  {
+    "institutionCode": "090504",
+    "institutionName": "ZIKORA MICROFINANCE BANK",
+    "cbnCode": "924"
+  },
+  {
+    "institutionCode": "100025",
+    "institutionName": "ZINTERNET - KONGAPAY",
+    "cbnCode": "321"
+  },
+  {
+    "institutionCode": "090718",
+    "institutionName": "ZITRA MFB",
+    "cbnCode": ""
+  },
+  {
+    "institutionCode": "999998",
+    "institutionName": "PSEUDO BANK",
+    "cbnCode": "01"
+  },
+  {
+    "institutionCode": "999998",
+    "institutionName": "PSEUDO BANK",
+    "cbnCode": "01"
+  }
+]
