@@ -1,11 +1,13 @@
 name: nibss_bank_logo_generator
-description: "A new Flutter package project."
+description: A Flutter package to generate and map NIBSS bank list entries to their corresponding logos by institution code or bank name, with a generic fallback.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ayanfeafolabi/nibss_bank_logo_generator
+repository: https://github.com/ayanfeafolabi/nibss_bank_logo_generator
+issue_tracker: https://github.com/ayanfeafolabi/nibss_bank_logo_generator/issues
 
 environment:
-  sdk: ^3.12.0
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=1.17.0'
 
 dependencies:
   flutter:
