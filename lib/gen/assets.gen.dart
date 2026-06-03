@@ -555,6 +555,10 @@ class $AssetsImagesGen {
   AssetGenImage get daylightMfb =>
       const AssetGenImage('assets/images/daylight_mfb.png');
 
+  /// File path: assets/images/default_bank_logo.png
+  AssetGenImage get defaultBankLogo =>
+      const AssetGenImage('assets/images/default_bank_logo.png');
+
   /// File path: assets/images/delta_trust.png
   AssetGenImage get deltaTrust =>
       const AssetGenImage('assets/images/delta_trust.png');
@@ -2344,6 +2348,7 @@ class $AssetsImagesGen {
     davenportMfb,
     davodaniMfb,
     daylightMfb,
+    defaultBankLogo,
     deltaTrust,
     destinyMfb,
     digitvantMfb,
