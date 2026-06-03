@@ -1,0 +1,12 @@
+# Exclude from pub.dev publishing
+.dart_tool/
+.git/
+.idea/
+.vscode/
+.DS_Store
+*.iml
+*.ipr
+*.iws
+pubspec.lock
+build/
+doc/api/

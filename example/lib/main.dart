@@ -31,34 +31,19 @@ class BankListScreen extends StatefulWidget {
 class _BankListScreenState extends State<BankListScreen> {
   // Sample bank list fetched (simulating NIBSS fetch response)
   final List<Map<String, String>> _sampleBanks = [
-    {
-      "institutionCode": "000014",
-      "institutionName": "ACCESS BANK",
-    },
+    {"institutionCode": "000014", "institutionName": "ACCESS BANK"},
     {
       "institutionCode": "000005",
       "institutionName": "ACCESS BANK PLC (DIAMOND)",
     },
-    {
-      "institutionCode": "000015",
-      "institutionName": "ZENITH BANK PLC",
-    },
-    {
-      "institutionCode": "100034",
-      "institutionName": "Zenth Easy Wallet",
-    },
+    {"institutionCode": "000015", "institutionName": "ZENITH BANK PLC"},
+    {"institutionCode": "100034", "institutionName": "Zenth Easy Wallet"},
     {
       "institutionCode": "100004",
       "institutionName": "OPAY DIGITAL SERVICES LIMITED",
     },
-    {
-      "institutionCode": "120001",
-      "institutionName": "9 payment service Bank",
-    },
-    {
-      "institutionCode": "090364",
-      "institutionName": "Nuture MFB",
-    },
+    {"institutionCode": "120001", "institutionName": "9 payment service Bank"},
+    {"institutionCode": "090364", "institutionName": "Nuture MFB"},
     {
       "institutionCode": "999999",
       "institutionName": "Unknown Bank (Fallback Demo)",
@@ -108,7 +93,10 @@ class _BankListScreenState extends State<BankListScreen> {
                 final name = bank['institutionName']!;
 
                 return Card(
-                  margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                  margin: const EdgeInsets.symmetric(
+                    horizontal: 10,
+                    vertical: 5,
+                  ),
                   child: ListTile(
                     leading: Container(
                       width: 50,

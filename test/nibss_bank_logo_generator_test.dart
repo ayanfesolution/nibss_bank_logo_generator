@@ -26,7 +26,8 @@ void main() {
       final assetByName1 = NibssBankLogo.getLogoAssetByBankName('Access Bank');
       expect(assetByName1.path, equals('assets/images/access.png'));
 
-      final assetByName2 = NibssBankLogo.getLogoAssetByBankName('ACCESS BANK PLC (DIAMOND)');
+      final assetByName2 =
+          NibssBankLogo.getLogoAssetByBankName('ACCESS BANK PLC (DIAMOND)');
       expect(assetByName2.path, equals('assets/images/access.png'));
 
       // Zenith name lookup
@@ -51,17 +52,21 @@ void main() {
     test('Falls back to default logo for unknown code/name', () {
       // Unknown code
       final fallbackAsset1 = NibssBankLogo.getLogoAssetByBankCode('999999');
-      expect(fallbackAsset1.path, equals('assets/images/default_bank_logo.png'));
+      expect(
+          fallbackAsset1.path, equals('assets/images/default_bank_logo.png'));
 
       // Unknown name
-      final fallbackAsset2 = NibssBankLogo.getLogoAssetByBankName('Fake Bank Microfinance Ltd');
-      expect(fallbackAsset2.path, equals('assets/images/default_bank_logo.png'));
+      final fallbackAsset2 =
+          NibssBankLogo.getLogoAssetByBankName('Fake Bank Microfinance Ltd');
+      expect(
+          fallbackAsset2.path, equals('assets/images/default_bank_logo.png'));
     });
 
     test('Returns Image widget successfully', () {
-      final widget = NibssBankLogo.getLogoByBankCode('000014', width: 50, height: 50);
+      final widget =
+          NibssBankLogo.getLogoByBankCode('000014', width: 50, height: 50);
       expect(widget, isA<Image>());
-      
+
       final imageWidget = widget as Image;
       expect(imageWidget.width, equals(50));
       expect(imageWidget.height, equals(50));
