@@ -70,6 +70,7 @@ class NibssBankLogo {
       width: width,
       height: height,
       fit: fit,
+      package: 'nibss_bank_logo_generator',
     );
   }
 
@@ -85,6 +86,7 @@ class NibssBankLogo {
       width: width,
       height: height,
       fit: fit,
+      package: 'nibss_bank_logo_generator',
     );
   }
 }
