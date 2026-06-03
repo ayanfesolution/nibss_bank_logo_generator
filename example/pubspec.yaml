@@ -1,0 +1,21 @@
+name: nibss_bank_logo_generator_example
+description: "Demonstrates how to use the nibss_bank_logo_generator package."
+publish_to: 'none'
+
+environment:
+  sdk: '^3.12.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  nibss_bank_logo_generator:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
