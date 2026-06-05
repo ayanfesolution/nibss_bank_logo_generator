@@ -33,6 +33,25 @@ void main() {
       // Zenith name lookup
       final zenithAsset = NibssBankLogo.getLogoAssetByBankName('Zenith Bank');
       expect(zenithAsset.path, equals('assets/images/Zenith.png'));
+
+      // Ecobank Express/Xpress Account lookup
+      final ecobankExpress =
+          NibssBankLogo.getLogoAssetByBankName('Ecobank express account');
+      expect(ecobankExpress.path, equals('assets/images/ecobank.png'));
+
+      final ecobankXpress =
+          NibssBankLogo.getLogoAssetByBankName('ECOBANK XPRESS ACCOUNT');
+      expect(ecobankXpress.path, equals('assets/images/ecobank.png'));
+
+      // FCMB Easy Account lookup
+      final fcmbEasy =
+          NibssBankLogo.getLogoAssetByBankName('FCMB Easy Account');
+      expect(fcmbEasy.path, equals('assets/images/fcmb.png'));
+
+      // Fidelity Mobile lookup
+      final fidelityMobile =
+          NibssBankLogo.getLogoAssetByBankName('Fidelity Mobile');
+      expect(fidelityMobile.path, equals('assets/images/fidelity.png'));
     });
 
     test('Resolves shared parent bank logos correctly', () {
