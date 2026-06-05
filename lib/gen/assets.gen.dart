@@ -14,6 +14,9 @@ import 'package:flutter/widgets.dart';
 class $AssetsImagesGen {
   const $AssetsImagesGen();
 
+  /// File path: assets/images/5TT_mfb.png
+  AssetGenImage get a5TTMfb => const AssetGenImage('assets/images/5TT_mfb.png');
+
   /// File path: assets/images/9japay_mfb.png
   AssetGenImage get a9japayMfb =>
       const AssetGenImage('assets/images/9japay_mfb.png');
@@ -89,6 +92,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/ada_mfb.png
   AssetGenImage get adaMfb => const AssetGenImage('assets/images/ada_mfb.png');
 
+  /// File path: assets/images/adamawa_mortgage_bank.png
+  AssetGenImage get adamawaMortgageBank =>
+      const AssetGenImage('assets/images/adamawa_mortgage_bank.png');
+
   /// File path: assets/images/addosser_mfb.png
   AssetGenImage get addosserMfb =>
       const AssetGenImage('assets/images/addosser_mfb.png');
@@ -155,6 +162,10 @@ class $AssetsImagesGen {
   AssetGenImage get allworkersMfb =>
       const AssetGenImage('assets/images/allworkers_mfb.png');
 
+  /// File path: assets/images/alpha_morgan_bank.png
+  AssetGenImage get alphaMorganBank =>
+      const AssetGenImage('assets/images/alpha_morgan_bank.png');
+
   /// File path: assets/images/alphakapital_mfb.png
   AssetGenImage get alphakapitalMfb =>
       const AssetGenImage('assets/images/alphakapital_mfb.png');
@@ -170,6 +181,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/amml mfb.png
   AssetGenImage get ammlMfb =>
       const AssetGenImage('assets/images/amml mfb.png');
+
+  /// File path: assets/images/ample_mfb.png
+  AssetGenImage get ampleMfb =>
+      const AssetGenImage('assets/images/ample_mfb.png');
 
   /// File path: assets/images/anchorage_mfb.png
   AssetGenImage get anchorageMfb =>
@@ -199,6 +214,17 @@ class $AssetsImagesGen {
   AssetGenImage get ariseMfb =>
       const AssetGenImage('assets/images/arise_mfb.png');
 
+  /// File path: assets/images/arm_mfb.png
+  AssetGenImage get armMfb => const AssetGenImage('assets/images/arm_mfb.png');
+
+  /// File path: assets/images/ascensia_finance.png
+  AssetGenImage get ascensiaFinance =>
+      const AssetGenImage('assets/images/ascensia_finance.png');
+
+  /// File path: assets/images/aspire_mfb.png
+  AssetGenImage get aspireMfb =>
+      const AssetGenImage('assets/images/aspire_mfb.png');
+
   /// File path: assets/images/assets_metrix_mfb.png
   AssetGenImage get assetsMetrixMfb =>
       const AssetGenImage('assets/images/assets_metrix_mfb.png');
@@ -214,6 +240,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/auchi_mfb.png
   AssetGenImage get auchiMfb =>
       const AssetGenImage('assets/images/auchi_mfb.png');
+
+  /// File path: assets/images/auchi_poly_mfb.png
+  AssetGenImage get auchiPolyMfb =>
+      const AssetGenImage('assets/images/auchi_poly_mfb.png');
 
   /// File path: assets/images/ave-maria_mfb.png
   AssetGenImage get aveMariaMfb =>
@@ -265,6 +295,14 @@ class $AssetsImagesGen {
   /// File path: assets/images/bank78.png
   AssetGenImage get bank78 => const AssetGenImage('assets/images/bank78.png');
 
+  /// File path: assets/images/bank_of_agriculture.png
+  AssetGenImage get bankOfAgriculture =>
+      const AssetGenImage('assets/images/bank_of_agriculture.png');
+
+  /// File path: assets/images/bankeasy_mfb.png
+  AssetGenImage get bankeasyMfb =>
+      const AssetGenImage('assets/images/bankeasy_mfb.png');
+
   /// File path: assets/images/bankit_mfb.png
   AssetGenImage get bankitMfb =>
       const AssetGenImage('assets/images/bankit_mfb.png');
@@ -277,9 +315,17 @@ class $AssetsImagesGen {
   AssetGenImage get baobabMfb =>
       const AssetGenImage('assets/images/baobab_mfb.png');
 
+  /// File path: assets/images/barnawa_mfb.png
+  AssetGenImage get barnawaMfb =>
+      const AssetGenImage('assets/images/barnawa_mfb.png');
+
   /// File path: assets/images/bayero_mfb.png
   AssetGenImage get bayeroMfb =>
       const AssetGenImage('assets/images/bayero_mfb.png');
+
+  /// File path: assets/images/bbway_mfb.png
+  AssetGenImage get bbwayMfb =>
+      const AssetGenImage('assets/images/bbway_mfb.png');
 
   /// File path: assets/images/bc_kash_mfb.png
   AssetGenImage get bcKashMfb =>
@@ -296,6 +342,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/beststar_mfb.png
   AssetGenImage get beststarMfb =>
       const AssetGenImage('assets/images/beststar_mfb.png');
+
+  /// File path: assets/images/betastack_technologies.png
+  AssetGenImage get betastackTechnologies =>
+      const AssetGenImage('assets/images/betastack_technologies.png');
 
   /// File path: assets/images/bethel_mfb.png
   AssetGenImage get bethelMfb =>
@@ -385,6 +435,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/buypower_mfb.png
   AssetGenImage get buypowerMfb =>
       const AssetGenImage('assets/images/buypower_mfb.png');
+
+  /// File path: assets/images/bzrnawa_mfb.png
+  AssetGenImage get bzrnawaMfb =>
+      const AssetGenImage('assets/images/bzrnawa_mfb.png');
 
   /// File path: assets/images/calabar_mfb.png
   AssetGenImage get calabarMfb =>
@@ -884,6 +938,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/global-initiative_mfb.png
   AssetGenImage get globalInitiativeMfb =>
       const AssetGenImage('assets/images/global-initiative_mfb.png');
+
+  /// File path: assets/images/globus_bank.png
+  AssetGenImage get globusBank =>
+      const AssetGenImage('assets/images/globus_bank.png');
 
   /// File path: assets/images/glory_mfb.png
   AssetGenImage get gloryMfb =>
@@ -1958,6 +2016,10 @@ class $AssetsImagesGen {
   AssetGenImage get tajBank =>
       const AssetGenImage('assets/images/taj_bank.png');
 
+  /// File path: assets/images/taj_pinspay.png
+  AssetGenImage get tajPinspay =>
+      const AssetGenImage('assets/images/taj_pinspay.png');
+
   /// File path: assets/images/tanadi_mfb.png
   AssetGenImage get tanadiMfb =>
       const AssetGenImage('assets/images/tanadi_mfb.png');
@@ -2209,6 +2271,7 @@ class $AssetsImagesGen {
 
   /// List of all assets
   List<AssetGenImage> get values => [
+        a5TTMfb,
         a9japayMfb,
         a9paymentPsb,
         aGMortgage,
@@ -2229,6 +2292,7 @@ class $AssetsImagesGen {
         access,
         accionMicrofinance,
         adaMfb,
+        adamawaMortgageBank,
         addosserMfb,
         adeyemiCollegeStaff,
         advanclyMfb,
@@ -2246,10 +2310,12 @@ class $AssetsImagesGen {
         alertMfb,
         alhayat,
         allworkersMfb,
+        alphaMorganBank,
         alphakapitalMfb,
         amacMfb,
         amjuMfb,
         ammlMfb,
+        ampleMfb,
         anchorageMfb,
         aniomaMfb,
         apeksMfb,
@@ -2257,10 +2323,14 @@ class $AssetsImagesGen {
         appleMfb,
         aramokoMfb,
         ariseMfb,
+        armMfb,
+        ascensiaFinance,
+        aspireMfb,
         assetsMetrixMfb,
         assetsMfb,
         astrapolarisMfb,
         auchiMfb,
+        auchiPolyMfb,
         aveMariaMfb,
         avenuegbeMfb,
         awacashMfb,
@@ -2274,14 +2344,19 @@ class $AssetsImagesGen {
         bancCorpMfb,
         banexMfb,
         bank78,
+        bankOfAgriculture,
+        bankeasyMfb,
         bankitMfb,
         banklyMfb,
         baobabMfb,
+        barnawaMfb,
         bayeroMfb,
+        bbwayMfb,
         bcKashMfb,
         bellbankMfb,
         benystaMfb,
         beststarMfb,
+        betastackTechnologies,
         bethelMfb,
         bipcMfb,
         blueprintMfb,
@@ -2305,6 +2380,7 @@ class $AssetsImagesGen {
         bundiMfb,
         bunkureMfb,
         buypowerMfb,
+        bzrnawaMfb,
         calabarMfb,
         canaanMfb,
         capitalmetriqMfb,
@@ -2434,6 +2510,7 @@ class $AssetsImagesGen {
         gireiMfb,
         giwaMfb,
         globalInitiativeMfb,
+        globusBank,
         gloryMfb,
         gmbMfb,
         goldmanMfb,
@@ -2710,6 +2787,7 @@ class $AssetsImagesGen {
         tagpay,
         taj,
         tajBank,
+        tajPinspay,
         tanadiMfb,
         tangaleMfb,
         tangerineMoneyMfb,
@@ -2774,7 +2852,7 @@ class $AssetsImagesGen {
         zefaMfb,
         zikoraMfb,
         zinternetKongapay,
-        zitraMfb,
+        zitraMfb
       ];
 }
 
@@ -2851,8 +2929,15 @@ class AssetGenImage {
     );
   }
 
-  ImageProvider provider({AssetBundle? bundle, String? package}) {
-    return AssetImage(_assetName, bundle: bundle, package: package);
+  ImageProvider provider({
+    AssetBundle? bundle,
+    String? package,
+  }) {
+    return AssetImage(
+      _assetName,
+      bundle: bundle,
+      package: package,
+    );
   }
 
   String get path => _assetName;
